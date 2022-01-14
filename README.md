@@ -5,7 +5,7 @@
 
 <h1>Hello World!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<p>Welcome to my page! </br> This is Daniyal Kukda , currently working as a Software Engineer at Nisum. I am a Full Stack developer with more than 3 years of experience in design, development, and support for web/mobile enterprise applications.</p>
+<p>Welcome to my page! </br> </br> This is Daniyal Kukda , currently working as a Software Engineer at Nisum. I am a Full Stack developer with more than 3 years of experience in design, development, and support for web/mobile enterprise applications.</p>
 
 <h3>Technologies and Tools I code with</h3>
 
