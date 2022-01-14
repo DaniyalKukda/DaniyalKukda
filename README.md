@@ -7,7 +7,7 @@
 
 <p>Welcome to my page! </br> This is Daniyal Kukda , currently working as a Software Engineer at Nisum. I am a Full Stack developer with more than 3 years of experience in design, development, and support for web/mobile enterprise applications.</p>
 
-<h3>Things I code with</h3>
+<h3>Technologies and Tools I code with</h3>
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -58,11 +58,19 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working for <a href="https://www.nisum.com/">Nisum</a>.</li>
- <li>- 👨🏽‍💻 I’m currently working on an ecommerce project that uses MERN Stack with AWS Lambda</li>
+<li>👨‍💻 I’m currently working on an ecommerce project that uses MERN Stack with AWS Lambda</li>
 <li>🧐 Learning about <strong>Serverless Architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/DaniyalKukda">Github</a>.</li>
 <li>💬 Ping me about <strong>JavaScript, React, Node, and Serverless stuff</strong>.</li>
 </ul>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/DaniyalKukda" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/daniyalkukda" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/daniyal-kukda/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href = "mailto: daniyalkukda545@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 <!--
 **DaniyalKukda/DaniyalKukda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
