@@ -53,11 +53,16 @@
   <img alt="vscode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0066b8?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="jira" src="https://img.shields.io/badge/-Jira-0033b0?style=flat-square&logo=jira&logoColor=white" />
   
-  
-  
-  
 </p>
 
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working for <a href="https://www.nisum.com/">Nisum</a>.</li>
+ <li>- 👨🏽‍💻 I’m currently working on an ecommerce project that uses MERN Stack with AWS Lambda</li>
+<li>🧐 Learning about <strong>Serverless Architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/DaniyalKukda">Github</a>.</li>
+<li>💬 Ping me about <strong>JavaScript, React, Node, and Serverless stuff</strong>.</li>
+</ul>
 <!--
 **DaniyalKukda/DaniyalKukda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
