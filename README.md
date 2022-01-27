@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./name.svg" alt="Marton Lederer" />
+  <img src="./name.svg" alt="Daniyal Kukda" />
 </h1>
 
 
